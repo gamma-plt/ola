@@ -1,2 +1,2 @@
 # ola
-Concurrent multi-paradigm Lisp-like language based on BEAM VM
+Concurrent multi-paradigm (OOP/Functional) Lisp-like language based on BEAM VM
